@@ -10,6 +10,7 @@ Sentiment140 dataset with 1.6 million tweets
 
 
 * wyniki całkiem git - linear regression ~79% i lstm 80%
+* tu jest mocny notebook 87% https://www.kaggle.com/code/heyytanay/sentiment-clf-jax-flax-on-tpus-w-b
 
 ----------------------------------------
 Each report should include:
