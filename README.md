@@ -8,7 +8,7 @@ Sentiment140 dataset with 1.6 million tweets
 --------------------------------------------
 * w twitter140.ipynb jest preprocessing
 
-* sentiment (2).ipynb - trening + parameter search
+* sentiment (2).ipynb - trening + parameter search - NIE ŚCIĄGAJ, JESTEŚ NA CONTIRBUTORZE NA KAGGLU, TAM JUZ JEST DATASET ITD.
 
 * wyniki całkiem git - linear regression ~79% i lstm 80%
 * tu jest mocny notebook 87% https://www.kaggle.com/code/heyytanay/sentiment-clf-jax-flax-on-tpus-w-b
